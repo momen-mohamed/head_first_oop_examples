@@ -1,4 +1,4 @@
-package RicksGuitarInventory;
+package Chapter1_RicksGuitarInventory;
 
 public class GuitarSpec {
 

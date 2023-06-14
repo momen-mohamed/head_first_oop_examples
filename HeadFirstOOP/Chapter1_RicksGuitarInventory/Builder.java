@@ -1,4 +1,4 @@
-package RicksGuitarInventory;
+package Chapter1_RicksGuitarInventory;
 
 public enum Builder {
     FENDER, MARTIN, GIBSON, COLLINGS, OLSON, RYAN, PRS, ANY;

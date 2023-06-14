@@ -1,4 +1,4 @@
-package RicksGuitarInventory;
+package Chapter1_RicksGuitarInventory;
 
 import java.util.Iterator;
 import java.util.LinkedList;
